@@ -6,12 +6,12 @@
 /*   By: zaz <marvin@42.fr>                         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2013/10/04 11:33:27 by zaz               #+#    #+#             */
-/*   Updated: 2017/09/20 14:32:17 by fmaury           ###   ########.fr       */
+/*   Updated: 2017/10/02 17:10:36 by fmaury           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef OP_H
-# define OP_H
+#ifndef ASM_OP_H
+# define ASM_OP_H
 
 # define REG_SIZE				1
 # define IND_SIZE				2
