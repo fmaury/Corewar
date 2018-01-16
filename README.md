@@ -13,7 +13,7 @@ Compile the project
 ------------
 
 ```sh
-$ git clone https://github.com/darklink41/42_corewar.git
+$ https://github.com/fmaury/Corewar.git
 $ cd corewar
 $ make
 ```
